@@ -1,0 +1,9 @@
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\bin\Debug\AverageLessons.exe.config
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\bin\Debug\AverageLessons.exe
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\bin\Debug\AverageLessons.pdb
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\obj\Debug\AverageLessons.AverageForm.resources
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\obj\Debug\AverageLessons.Properties.Resources.resources
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\obj\Debug\AverageLessons.csproj.GenerateResource.cache
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\obj\Debug\AverageLessons.csproj.CoreCompileInputs.cache
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\obj\Debug\AverageLessons.exe
+F:\c#\MyProject\Bsiac Window Form\AverageLessons\AverageLessons\obj\Debug\AverageLessons.pdb
