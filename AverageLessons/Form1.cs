@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 
 //Producer: Amirmohammad Omumi
+//Instagram: amirmohammad_omumi
+//twitter: amir_omumi
+//linkdin: https://www.linkedin.com/in/amirmohammad-omumi-3b1393171
 
 namespace AverageLessons
 {
